@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         B站高能进度条跳转工具
+// @name         B站高能进度条跳转工具-追番利器-自动跳片头片尾-跳高能
 // @namespace    https://eliotzhang.club
 // @homepage     https://eliotzhang.club
-// @version      1.0
+// @version      1.1
 // @description  出现高能进度条的视频播放中按下P键即可跳转到当前时间后最近一次的高能处
 // @author       EliotZhang
 // @match        *://www.bilibili.com/*
