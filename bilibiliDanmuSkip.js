@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         B站高能进度条跳转工具-追番利器-自动跳片头片尾-跳高能
+// @name         B站高能进度条跳转工具-追番利器-跳片头片尾-跳高能
 // @namespace    https://eliotzhang.club
 // @homepage     https://eliotzhang.club
 // @version      1.1
