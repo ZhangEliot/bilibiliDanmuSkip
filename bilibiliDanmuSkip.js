@@ -14,12 +14,15 @@
     'use strict';
 
     // My code here...
+    // 可调参数！
+    let threshold = 55; // 高能阈值。只有高于此值才被当作高能点。范围：0~100。默认：55
+    let interval = 5; // 两个高能点之间的最小间隔。即：从第二个高能点开始，每个高能点与前一个高能点间的最小间隔。单位：秒。默认：5
+    let bias = 0; // 跳转到高能点时附加的时间偏移量。单位：秒。默认：0
+    ////////////////
+    // 下面无需更改！
     let tail = '\nbilibiliDanmuSkip by EliotZhang';
     let timeTable = null;
     let cid = null;
-    let threshold = 55;
-    let interval = 5;
-    let bias = 0;
 
     function getPoints() {
         if (!unsafeWindow.player || unsafeWindow.player.getVideoMessage().cid == cid)
