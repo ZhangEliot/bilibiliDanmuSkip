@@ -13,4 +13,4 @@ B站高能进度条跳转工具（油猴脚本，请配合Tamper monkey等同类
 
 ---
 # 效果展示
-![效果示例](https://eliotzhang.club/IMAGES/bds_small.gif)
+[效果示例](https://eliotzhang.club/IMAGES/bds_small.gif)
